@@ -5,8 +5,8 @@ Jogo 2D de mineração estilo *clicker*, feito em Python com PyGame para o Proje
 Comece minerando rochas na superfície e cave cada vez mais fundo: Cavernas → Cristais → Magma → Núcleo do planeta.
 
 ## Integrantes
-- (nome 1)
-- (nome 2)
+- Pedro Gonçalves
+- Bernardo lennenberg
 
 ## Como rodar
 1. Instale o Python 3 (https://www.python.org/downloads/).
