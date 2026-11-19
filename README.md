@@ -41,7 +41,7 @@ Cada camada tem um desafio próprio:
 - Modo de teste: com `DEBUG = True` em `config.py`, a tecla F2 dá minério extra.
 
 ## Vídeo
-(link do vídeo)
+https://youtu.be/eyaZOTmW2os
 
 ## Estrutura do código e divisão do trabalho
 O código foi dividido em duas partes, uma para cada integrante.
