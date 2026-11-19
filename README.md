@@ -46,7 +46,7 @@ https://youtu.be/eyaZOTmW2os
 ## Estrutura do código e divisão do trabalho
 O código foi dividido em duas partes, uma para cada integrante.
 
-**Parte 1: estrutura do jogo e telas** (nome 1)
+**Parte 1: estrutura do jogo e telas** (Pedro Gonçalves)
 | Arquivo | O que faz |
 |---|---|
 | `main.py` | Arquivo que deve ser executado |
@@ -58,7 +58,7 @@ O código foi dividido em duas partes, uma para cada integrante.
 | `save.py` | Salvar e carregar o progresso em JSON |
 | `sons.py` + `sons/` | Efeitos sonoros e músicas |
 
-**Parte 2: o mundo da mina** (nome 2)
+**Parte 2: o mundo da mina** (Bernardo lennenberg)
 | Arquivo | O que faz |
 |---|---|
 | `camada.py` | Dados e cenário das 4 camadas (fases) |
