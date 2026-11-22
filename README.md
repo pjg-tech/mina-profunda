@@ -6,7 +6,7 @@ Comece minerando rochas na superfície e cave cada vez mais fundo: Cavernas → 
 
 ## Integrantes
 - Pedro Gonçalves
-- Bernardo lennenberg
+- Bernardo Lenneberg
 
 ## Como rodar
 1. Instale o Python 3 (https://www.python.org/downloads/).
@@ -57,7 +57,7 @@ O código foi dividido em duas partes, uma para cada integrante.
 | `save.py` | Salvar e carregar o progresso em JSON |
 | `sons.py` + `sons/` | Efeitos sonoros e músicas |
 
-**Parte 2: o mundo da mina** (Bernardo lennenberg)
+**Parte 2: o mundo da mina** (Bernardo Lenneberg)
 | Arquivo | O que faz |
 |---|---|
 | `camada.py` | Dados e cenário das 4 camadas (fases) |
