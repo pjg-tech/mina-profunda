@@ -74,6 +74,8 @@ O código foi dividido em duas partes, uma para cada integrante.
 ## Uso de IA generativa
 Ferramenta: Claude (Anthropic), via Claude Code. Não é a ferramenta institucional do Insper.
 
+**Anexo:** [histórico da conversa com a IA](HISTORICO_IA.md), exportado em 22/11/2026, sem dados pessoais de contato e do computador.
+
 - **Gerado por IA (100%):** o código de todos os arquivos `.py`, os sons, este README (exceto edições pontuais do grupo) e o roteiro automático que gravou o vídeo de demonstração.
 - **Feito pelo grupo:** a escolha do clicker de mineração e das camadas (rocha, cristais, magma) e os pedidos de melhoria e de simplificação.
 - **Divisão em partes:** indica quem ficou responsável por estudar e enviar cada parte, e não autoria do código. Os commits de Pedro foram preparados com ajuda da IA.
