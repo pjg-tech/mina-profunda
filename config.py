@@ -17,8 +17,8 @@ CHAO = 450   # altura dos pés dos personagens
 
 SALVAR_A_CADA = 30   # segundos entre um salvamento automático e outro
 
-# Modo de teste: a tecla F2 dá minério extra. Mudem para False antes de entregar!
-DEBUG = True
+# Modo de teste: se for True, a tecla F2 dá minério extra
+DEBUG = False
 
 # Cores no formato (vermelho, verde, azul), cada um de 0 a 255
 BRANCO = (255, 255, 255)

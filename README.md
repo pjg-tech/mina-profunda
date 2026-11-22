@@ -38,7 +38,6 @@ Cada camada tem um desafio próprio:
 | Magma | A picareta esquenta e pode superaquecer. Bolas de fogo e pedras caindo |
 
 - ESC pausa o jogo. O progresso é salvo automaticamente em `save.json`.
-- Modo de teste: com `DEBUG = True` em `config.py`, a tecla F2 dá minério extra.
 
 ## Vídeo
 https://youtu.be/eyaZOTmW2os
@@ -73,4 +72,9 @@ O código foi dividido em duas partes, uma para cada integrante.
 - Sons e músicas (`sons/*.wav`): gerados por um script de síntese de áudio feito com IA (ver abaixo).
 
 ## Uso de IA generativa
-O código deste jogo foi gerado com o assistente de IA Claude (Anthropic), a partir da ideia e dos requisitos do grupo: primeiro um protótipo, depois melhorias (minerador animado, ajudantes visíveis, aba de equipamentos, escuridão, pedras caindo, calor da picareta, docstrings e balanceamento) e por fim uma versão simplificada para facilitar o entendimento. Os sons `.wav` foram gerados por um script de áudio também feito pela IA. O grupo revisou o código e é responsável por entendê-lo. **Atualizem esta seção** conforme modificarem o código, indicando o que foi feito pelo grupo e o que veio de IA, com o link do histórico da conversa, como pede a página do projeto.
+Ferramenta: Claude (Anthropic), via Claude Code. Não é a ferramenta institucional do Insper.
+
+- **Gerado por IA (100%):** o código de todos os arquivos `.py`, os sons, este README (exceto edições pontuais do grupo) e o roteiro automático que gravou o vídeo de demonstração.
+- **Feito pelo grupo:** a escolha do clicker de mineração e das camadas (rocha, cristais, magma) e os pedidos de melhoria e de simplificação.
+- **Divisão em partes:** indica quem ficou responsável por estudar e enviar cada parte, e não autoria do código. Os commits de Pedro foram preparados com ajuda da IA.
+- **Estudo:** materiais para entender o código também foram gerados com IA.
